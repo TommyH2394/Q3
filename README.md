@@ -1,7 +1,7 @@
 # Q3
 Developer Technical Questions
 
-src/MyApplication.java Contains code with Rest endpoints
+src/Parser.java Contains code with Rest endpoints
 
 Required - GlassFish Server configured in IDE
 
